@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/main menu.unity
+    guid: 8177314eed5c0cf4f95d9ed9cfe0ef38
+  - enabled: 1
+    path: Assets/Scenes/betaFeatures.unity
+    guid: b193d9a0d30fd394ea1ce3223fcb6859
+  - enabled: 1
+    path: Assets/Scenes/musicPlayer.unity
+    guid: b82f35a5a335eec4aaf4eceb2f1805d3
+  - enabled: 1
+    path: Assets/Scenes/How To Play.unity
+    guid: 1e9adc64ff70ef74ca514dc60087b4b2
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: b5dea580a34f55f4da716cb075b8551c
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 97cab761f063fc144918e8468691ad6a
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: 7fb43906eb3d11a429c09e707052c919
+  - enabled: 1
+    path: Assets/Scenes/Level5.unity
+    guid: 1f19bde9b708a9347995c3260b184576
+  - enabled: 1
+    path: Assets/Scenes/Level6.unity
+    guid: 267924b70d9bcf34c81d6f0f5f75402c
+  - enabled: 1
+    path: Assets/Scenes/Level7.unity
+    guid: 409ee406f8656024faad85dc8e365fef
+  - enabled: 1
+    path: Assets/Scenes/Level8.unity
+    guid: 44ef19f72bb5aa04d83a02db778b5bcd
+  - enabled: 1
+    path: Assets/Scenes/Level9.unity
+    guid: 23ee56a3dfa31a5459e6145c00363950
+  - enabled: 1
+    path: Assets/Scenes/Level10.unity
+    guid: bd2a7a339fbc81f4d8d11616221e0b4e
+  - enabled: 1
+    path: Assets/Scenes/Level11.unity
+    guid: 660b5ddb6f222f247ab4530fa97efcb4
+  - enabled: 1
+    path: Assets/Scenes/Level12.unity
+    guid: 89286b1ae1a14594a8c839106b0a12b8
+  - enabled: 1
+    path: Assets/Scenes/test.unity
+    guid: 877ea60ccc15fab4ea35a7eca22da678
+  - enabled: 1
+    path: Assets/Scenes/credits.unity
+    guid: f1c5107bf47bb5f4f9ef0d09eca6adbf
+  - enabled: 1
+    path: Assets/Scenes/win.unity
+    guid: 4707848e70a01dd43a1210aa7f229c9b
+  - enabled: 1
+    path: Assets/Scenes/superwin.unity
+    guid: 4b744655c872bcd4cb36925dce58faa9
+  m_configObjects: {}
